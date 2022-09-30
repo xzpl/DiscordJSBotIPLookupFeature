@@ -1,2 +1,9 @@
-# DiscordJSBotIPLookupFeature
-A discord bot that has an IP lookup and command and some moderation tools
+# DiscordJsBot Moderation And IP Lookup Command Is Here 
+
+<br>
+
+How To Install
+- Git clone or download 
+- Make sure nodejs is intalled 
+- Run setup.bat
+- Then run user.bat
