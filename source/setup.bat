@@ -1,5 +1,6 @@
 title 4b3j Installer
 @echo off
+cls
 
 echo INSTALLING PACKAGES
 
