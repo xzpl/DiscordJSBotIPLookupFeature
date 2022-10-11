@@ -53,4 +53,3 @@ Start the bot
 Open an issue or join [Discord](https://discord.gg/QTRDDbdF7W) 
 
 Email 4b3ja@proton.me
-
