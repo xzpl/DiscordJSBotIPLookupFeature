@@ -80,7 +80,9 @@ client.on('message', message => {
             client.commands.get(command).execute(message, args);
         } else if(command === "openticket" ) {
             client.commands.get(command).execute(message, args);
-        } else {
+        } else if(command === "report") {
+	    client.commands.get(command).execute(message, args);
+	} else {
             message.channel.send("Invalid command was asked")
         }
     } catch (err) {
